@@ -467,7 +467,8 @@ export default function App() {
       <section className="bg-gradient-to-br from-teal-50 to-green-50 py-20">
         <div className="container mx-auto px-4 text-center">
           <h1 className="text-5xl font-extrabold text-gray-900 mb-6 leading-tight">
-            Consultoria Mercattoria - Impactando Positivamente o Varejo !
+            Consultoria Mercattoria
+            Impactando Positivamente o Varejo !
           </h1>
           <p className="text-xl text-gray-700 font-light mb-8 max-w-3xl mx-auto leading-relaxed">
             Análise abrangente das reuniões da consultoria realizadas entre abril e agosto de 2025, fornecendo uma visão clara do progresso e das ações tomadas.
